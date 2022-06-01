@@ -13,3 +13,6 @@ Steps:
 2. Use [macos-pasteboard](https://github.com/chbrown/macos-pasteboard) to paste `pbv public.html > searches/8.html`
 3. Run `jupyter lab main.ipynb` to parse into `data.csv` (`conda create -c conda-forge -n ma-cooperative-corporations jupyterlab beautifulsoup4`).
 4. Upload to google drive and manually go through to download articles of incorporation and scan.
+5. [Uploaded to google maps](https://www.google.com/maps/d/u/0/edit?mid=1Gwxc_RwwFcM9hmnenl1mKdExmsCHC54&usp=sharing) for fun!
+
+<img width="1792" alt="Screen Shot 2022-06-01 at 12 19 08 PM" src="https://user-images.githubusercontent.com/1186124/171452285-2a1e6181-f85f-4934-84cc-398f99c067b8.png">
